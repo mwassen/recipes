@@ -1,0 +1,41 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { getTags } from "../../utils/getTags";
+import { upperFirst } from "../../utils/upperFirst";
+
+interface Props {
+  tag: string;
+}
+
+const recipes = await getCollection("recipes");
+
+export const getStaticPaths = async () => {
+  const recipes = await getCollection("recipes");
+  const tags = getTags(recipes);
+
+  return tags.map((tag) => ({
+    params: { slug: tag },
+    props: { tag },
+  }));
+};
+
+const { tag } = Astro.props;
+---
+
+<Layout title={upperFirst(tag)}>
+  <main>
+    <h1>{upperFirst(tag)}</h1>
+    <ul>
+      {
+        recipes
+          .filter((recipe) => recipe.data.tags.includes(tag))
+          .map((recipe) => (
+            <li>
+              <a href={`/${recipe.slug}`}>{recipe.data.title}</a>
+            </li>
+          ))
+      }
+    </ul>
+  </main>
+</Layout>
