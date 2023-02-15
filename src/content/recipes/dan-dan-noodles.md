@@ -24,7 +24,7 @@ Was at first ready to trash this recipe since it came through the mailbox in the
 
 - 1 dl canola oil
 - 1 tbsp crispy chili oil
-- 1 tsp sichuan pepper
+- 1 tsp Sichuan pepper
 - 2 tsp sambal
 - 4 cloves garlic
 - 3 tbsp tahini
