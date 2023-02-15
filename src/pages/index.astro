@@ -12,7 +12,10 @@ const tags = getTags(recipes);
 <Layout>
   <header>
     <h1>Marcus' cookbook 🍳</h1>
-    <p>Marcus's collected recipes. What do you feel like cooking?</p>
+    <p>
+      The recipes I've collected and regularly returned to. Some are lifted and
+      modified, others are my own. What do you feel like cooking?
+    </p>
   </header>
   <main>
     <h2>Latest recipes</h2>
@@ -26,10 +29,10 @@ const tags = getTags(recipes);
       }
     </ul>
     <h2>Tags</h2>
-    <ul>
+    <ul class="flex list-none flex-wrap gap-2 px-0">
       {
         tags.map((tag) => (
-          <li>
+          <li class="px-0">
             <a href={`/tags/${tag}`}>{upperFirst(tag)}</a>
           </li>
         ))
