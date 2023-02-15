@@ -1,6 +1,6 @@
 ---
 title: Dan dan noodles
-tags: [chinese, noodles, dinner]
+tags: [chinese, noodles, dinner, vegetarian]
 ---
 
 # Dan dan noodles
@@ -26,7 +26,7 @@ Was at first ready to trash this recipe since it came through the mailbox in the
 - 1 tbsp crispy chili oil
 - 1 tsp Sichuan pepper
 - 2 tsp sambal
-- 4 cloves garlic
+- 4 garlic cloves
 - 3 tbsp tahini
 - 3 tbsp Japanese soy
 - 2 tbsp rice vinegar
@@ -37,7 +37,7 @@ Was at first ready to trash this recipe since it came through the mailbox in the
 - 2 l water
 - 1 tbsp chicken stock
 - 400 g pre-cooked ramen
-- 250g pak choi
+- 250 g pak choi
 - 2 pcs spring onions
 - 0.5 pcs red chili
 - 2 tsp sesame seeds
