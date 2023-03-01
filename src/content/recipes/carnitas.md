@@ -1,6 +1,7 @@
 ---
 title: Slow-cooked carnitas
 tags: [mexican, pork]
+date: 2023-02-13
 ---
 
 # Slow-cooked carnitas

@@ -4,7 +4,9 @@ import Layout from "../layouts/Layout.astro";
 import { getTags } from "../utils/getTags";
 import { upperFirst } from "../utils/upperFirst";
 
-const recipes = await getCollection("recipes");
+const recipes = await getCollection("recipes").then((r) =>
+  r.sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+);
 
 const tags = getTags(recipes);
 ---
@@ -29,10 +31,10 @@ const tags = getTags(recipes);
       }
     </ul>
     <h2>Tags</h2>
-    <ul class="flex list-none flex-wrap gap-2 px-0">
+    <ul class="list-none p-0">
       {
         tags.map((tag) => (
-          <li class="px-0">
+          <li class="mr-2 inline list-none pl-0">
             <a href={`/tags/${tag}`}>{upperFirst(tag)}</a>
           </li>
         ))

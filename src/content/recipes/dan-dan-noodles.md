@@ -1,6 +1,7 @@
 ---
 title: Dan dan noodles
 tags: [chinese, noodles, dinner, vegetarian]
+date: 2023-02-15
 ---
 
 # Dan dan noodles
