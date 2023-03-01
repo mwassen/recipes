@@ -1,6 +1,6 @@
 ---
 title: Creamy mushroom pasta
-tags: [mexican, pork]
+tags: [pasta, fast, simple, vegetarian]
 ---
 
 # Creamy mushroom pasta
