@@ -6,9 +6,8 @@ tags: [mexican, pork]
 # Creamy mushroom pasta
 Quick recipe I [found](https://www.reddit.com/r/15minutefood/comments/f38xar/creamy_garlic_mushroom_tagliatelle/fhh65s8/) that works great with many types of pasta.
  
-- ⏲️ Prep: 15 mins
-- 🍳 Cook time: 8 hrs
-- 🍽️ Servings: 8
+- 🍳 Cook time: 15 mins
+- 🍽️ Servings: 2
 
 ## Ingredients
 
