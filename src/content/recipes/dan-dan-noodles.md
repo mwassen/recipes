@@ -8,7 +8,7 @@ date: 2023-02-15
 
 ![One serving dan dan noodles](/images/dan-dan-noodles.jpg)
 
-Was at first ready to trash this recipe since it came through the mailbox in the form of an unsolicited ad-mag. After making a few attempts and some modifications it beat all odds and has become a favourite.
+Very rich noodle soup, perfect after a cold day.
 
 - 🍳 Cook time: 40 mins
 - 🍽️ Servings: 4
