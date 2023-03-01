@@ -1,14 +1,14 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
-import { getTags } from "../utils/getTags";
+import { getTagsWithFrequency } from "../utils/getTags";
 import { upperFirst } from "../utils/upperFirst";
 
 const recipes = await getCollection("recipes").then((r) =>
   r.sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
 );
 
-const tags = getTags(recipes);
+const tags = getTagsWithFrequency(recipes);
 ---
 
 <Layout>
@@ -34,8 +34,9 @@ const tags = getTags(recipes);
     <ul class="list-none p-0">
       {
         tags.map((tag) => (
-          <li class="mr-2 inline list-none pl-0">
-            <a href={`/tags/${tag}`}>{upperFirst(tag)}</a>
+          <li class="mr-2 inline-block list-none pl-0">
+            <a href={`/tags/${tag.name}`}>{upperFirst(tag.name)}</a>
+            <span class="text-xs text-zinc-500">{`(${tag.frequency})`}</span>
           </li>
         ))
       }
