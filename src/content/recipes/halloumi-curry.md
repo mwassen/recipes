@@ -6,7 +6,7 @@ date: 2023-02-15
 
 # Indian curry with halloumi
 
-This is a translation of [this recipe](http://lagaindiskmat.se/mild-och-kramig-indisk-gryta/).
+A translation of [this recipe](https://web.archive.org/web/20191029233520/http://lagaindiskmat.se/mild-och-kramig-indisk-gryta/). The curry base here can be adapted and served with a wide range of other ingredients.
 
 - 🍳 Cook time: 40 mins
 - 🍽️ Servings: 4-6
