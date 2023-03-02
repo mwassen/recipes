@@ -21,10 +21,10 @@ const tags = getTagsWithFrequency(recipes);
   </header>
   <main>
     <h2>Latest recipes</h2>
-    <ul class="md:columns-2 md:gap-2">
+    <ul>
       {
         recipes.map((recipe) => (
-          <li class="m-0 py-2">
+          <li>
             <a href={`/${recipe.slug}`}>{recipe.data.title}</a>
           </li>
         ))
