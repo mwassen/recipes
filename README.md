@@ -1,6 +1,6 @@
-# Recipes
+# Marcus' recipes
 
-A cooking recipe website without the bloat. Inspired by [Based Cooking](https://based.cooking/) but made with a different set of tools, mainly Astro and Tailwind CSS.
+A recipe website without the bloat. Inspired by [Based Cooking](https://based.cooking/) but made with a different set of tools, mainly [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ```bash
 # Install
