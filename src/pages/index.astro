@@ -31,10 +31,10 @@ const tags = getTagsWithFrequency(recipes);
       }
     </ul>
     <h2>Tags</h2>
-    <ul class="list-none p-0">
+    <ul class="list-none">
       {
         tags.map((tag) => (
-          <li class="mr-2 inline-block pl-0">
+          <li class="inline-block">
             <a href={`/tags/${tag.name}`}>{upperFirst(tag.name)}</a>
             <span class="text-xs text-zinc-500">{`(${tag.frequency})`}</span>
           </li>
