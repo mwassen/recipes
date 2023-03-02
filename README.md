@@ -17,10 +17,10 @@ pnpm run build
 
 All recipes need to contain the following values in their frontmatter:
 
-```typescript
-type RecipeFrontmatter = {
-  title: string;
-  tags: string[];
-  date: Date;
-};
+```md
+---
+title: string
+tags: string[]
+date: Date
+---
 ```
