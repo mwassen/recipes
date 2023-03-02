@@ -1,6 +1,6 @@
 ---
 title: Creamy mushroom pasta
-tags: [pasta, fast, simple, vegetarian]
+tags: [pasta, fast, vegetarian]
 date: 2023-03-01
 ---
 

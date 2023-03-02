@@ -1,6 +1,6 @@
 ---
 title: Savoury oats
-tags: [simple, fast, dinner]
+tags: [fast]
 date: 2023-02-15
 ---
 

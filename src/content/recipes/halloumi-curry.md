@@ -1,6 +1,6 @@
 ---
 title: Indian curry with halloumi
-tags: [indian, stew, vegetarian]
+tags: [indian, curry, vegetarian]
 date: 2023-02-15
 ---
 

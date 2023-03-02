@@ -1,6 +1,6 @@
 ---
 title: Baked salmon with roe sauce
-tags: [fish, dinner]
+tags: [fish]
 date: 2023-02-18
 ---
 
