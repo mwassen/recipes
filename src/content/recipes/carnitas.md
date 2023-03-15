@@ -1,10 +1,10 @@
 ---
-title: Slow-cooked carnitas
+title: Carnitas
 tags: [mexican, pork, slow cooker]
 date: 2023-02-13
 ---
 
-# Slow-cooked carnitas
+# Carnitas
 
 This recipe takes some time to make but can feed many. Works great in burritos, tacos and quesedillas. Can easily be saved for later by storing after the slow cooker step.
 
