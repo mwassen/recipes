@@ -8,7 +8,7 @@ date: 2023-02-15
 
 ![One serving dan dan noodles](/images/dan-dan-noodles.jpg)
 
-Very rich noodle soup, perfect after a cold day. Adapted from a recipe found in an unsolicited magazine/ad.
+Rich noodle soup, perfect after a cold day. Adapted from a recipe found in an unsolicited magazine.
 
 - 🍳 Cook time: 40 mins
 - 🍽️ Servings: 4

@@ -8,7 +8,7 @@ date: 2023-02-15
 
 ![One serving savoury oats](/images/savoury-oats.jpg)
 
-Comfort food that can be thrown together in a pinch.
+Comfort food that can be thrown together very quickly.
 
 - 🍳 Cook time: 5 mins
 - 🍽️ Servings: 2
