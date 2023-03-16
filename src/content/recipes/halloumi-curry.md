@@ -6,7 +6,7 @@ date: 2023-02-15
 
 # Indian curry with halloumi
 
-A translation of [this recipe](https://web.archive.org/web/20191029233520/http://lagaindiskmat.se/mild-och-kramig-indisk-gryta/). Halloumi serves as a stand-in for paneer. The curry base can be adapted and served with a many other ingredients.
+A translation of [this recipe](https://web.archive.org/web/20191029233520/http://lagaindiskmat.se/mild-och-kramig-indisk-gryta/). Halloumi serves as a stand-in for paneer. The curry base can be adapted and served with many other ingredients.
 
 - 🍳 Cook time: 40 mins
 - 🍽️ Servings: 4-6

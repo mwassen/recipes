@@ -21,10 +21,11 @@ Comfort food that can be thrown together very quickly.
 - Japanese soy
 - Sesame oil
 - Sesame seeds
+- Spring onion
 
 ## Directions
 
 1. Add the water and oatmeal to a pot. Place on stove, high heat.
 2. Drain the tuna can and add to the pot when the oatmeal begins to become firm. Reduce to low heat.
 3. Add the eggs and keep stirring until oatmeal reaches desired consistency.
-4. Serve in bowls. Add soy and sesame oil. Top with some sesame seeds.
+4. Serve in bowls. Add soy and sesame oil. Top with some sesame seeds and/or chopped spring onion.
