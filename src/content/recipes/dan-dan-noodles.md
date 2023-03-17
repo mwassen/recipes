@@ -39,7 +39,7 @@ Rich noodle soup, perfect after a cold day.
 
 - 2 l water
 - 1 tbsp chicken stock
-- 400 g pre-cooked ramen
+- 400 g ramen noodles
 - 250 g pak choi
 - 2 pcs spring onions
 - 0.5 pcs red chili
