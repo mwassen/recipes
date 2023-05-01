@@ -1,6 +1,6 @@
 ---
 title: Mackerel pasta
-tags: [pasta, fish, simple]
+tags: [pasta, fish, fast]
 date: 2023-05-01
 ---
 
@@ -13,7 +13,7 @@ Simple pasta with canned mackerel, can be replaced with tuna or other fish in a 
 
 ## Ingredients
 
-- 2 tins canned mackerel
+- 2 cans mackerel
 - 3-4 pressed garlic cloves
 - 2 tsp capers
 - 2 tbsp olive oil

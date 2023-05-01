@@ -1,6 +1,6 @@
 ---
 title: Savoury oats
-tags: [fast]
+tags: [fast, fish]
 date: 2023-02-15
 ---
 
