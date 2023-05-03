@@ -31,4 +31,4 @@ Simple pasta with canned mackerel, can be replaced with tuna or other fish in a 
 3. Place the smaller pot onto low heat, stir occasionally.
 4. Once the pasta is cooked save around 1 dl of the water, drain the rest.
 5. Add the contents of the small pot to the pasta, also throw in some parmesan and parsley, mix thoroughly.
-6. Serve with some additional parmesan on top and with a lemon wedge.
+6. Serve with some additional parmesan on top and a lemon wedge.
